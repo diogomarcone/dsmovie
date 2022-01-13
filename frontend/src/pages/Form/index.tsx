@@ -1,6 +1,6 @@
 function Form(){
     return(
-        <h1>Página de formulario</h1>
+        <h1>Página de fosrmulario</h1>
     )
 }
 
